@@ -3,8 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "ad043efcaf0d2200a94aa24c4fb9ca7e",
-"assets/FontManifest.json": "e5e774b6ec7581f51565ea1414bf1a96",
+  "assets/AssetManifest.json": "8d64732b1c7f98aff467de6384c94d6f",
+"assets/FontManifest.json": "b8f9b56b730a4b868be56c7dbd4e3382",
+"assets/fonts/beyond_the_mountains.ttf": "41f5e8ff1d98d490a19c6d48ea7b74b1",
+"assets/fonts/FeltTeddyBear.otf": "3306e29e894ad5862f43b4a0348163b8",
 "assets/fonts/Last_Paradise.ttf": "4532c95fb2bdd69afb14934061fd91bd",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/fonts/Tianshi-Yanti.ttf": "9c77d8dbc498acaa41208614ef6021fa",
@@ -15,9 +17,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "da436d5146f77c7338426588d1cda0ce",
-"/": "da436d5146f77c7338426588d1cda0ce",
-"main.dart.js": "cae6286234a69c4c31669bc390ead533",
+"index.html": "10719839933f4bdd74083e963ae154cf",
+"/": "10719839933f4bdd74083e963ae154cf",
+"main.dart.js": "03336f9cd8521697a3610cd8aa5a53b9",
 "manifest.json": "7ca557be492c4a8ec903eba06941979e",
 "version.json": "a4afb26224451a73883b166f8e011274"
 };
